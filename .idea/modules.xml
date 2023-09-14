@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yh_api/yh_api.iml" filepath="$PROJECT_DIR$/yh_api/yh_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yh_entity/yh_entity.iml" filepath="$PROJECT_DIR$/yh_entity/yh_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yh_gateway/yh_gateway.iml" filepath="$PROJECT_DIR$/yh_gateway/yh_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yh_goods/yh_goods.iml" filepath="$PROJECT_DIR$/yh_goods/yh_goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yh_init/yh_init.iml" filepath="$PROJECT_DIR$/yh_init/yh_init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yh_mall.iml" filepath="$PROJECT_DIR$/yh_mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yh_order/yh_order.iml" filepath="$PROJECT_DIR$/yh_order/yh_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yh_security/yh_security.iml" filepath="$PROJECT_DIR$/yh_security/yh_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yh_web/yh_web.iml" filepath="$PROJECT_DIR$/yh_web/yh_web.iml" />
+    </modules>
+  </component>
+</project>

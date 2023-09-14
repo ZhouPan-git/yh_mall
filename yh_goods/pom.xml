@@ -74,7 +74,7 @@
 
         <dependency>
             <groupId>com.yc</groupId>
-            <artifactId>res-entity</artifactId>
+            <artifactId>yh_entity</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
@@ -107,7 +107,7 @@
 
         <dependency>
             <groupId>com.yc</groupId>
-            <artifactId>res-api</artifactId>
+            <artifactId>yh_api</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
